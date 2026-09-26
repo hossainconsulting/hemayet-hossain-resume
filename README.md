@@ -1,9 +1,13 @@
 # Hemayet Hossain
 
-**Salesforce Administrator · CRM Automation · Salesforce and AI Solutions**
+**Salesforce Administrator candidate · Four Salesforce certifications · Sydney**
 Sydney, NSW, Australia · Founder of Hossain Consulting
 
 Welcome. This repository brings together my résumé, cover letter and portfolio links for recruiters, hiring teams and prospective clients.
+
+**Recruiters:** [Download my résumé](outputs/Hemayet_Hossain_Master_Resume.pdf?raw=true), explore the projects below, or [contact me on LinkedIn](https://www.linkedin.com/in/hemayethossain/).
+
+**Business owners:** Read about my developing practice below or [email Hossain Consulting](mailto:hossainconsulting@gmail.com) to discuss CRM and automation needs.
 
 ## Download my résumé and cover letter
 
@@ -14,6 +18,8 @@ Welcome. This repository brings together my résumé, cover letter and portfolio
 
 The résumé is the full eight-page master version. The one-page cover letter introduces my background for Salesforce and CRM opportunities. Both preserve my 10 September 2026 drafts, exported on 26 September 2026.
 
+**Current context:** I am transitioning into my first paid Salesforce or IT role. My technical portfolio consists of self-directed projects and simulated business scenarios. Hossain Consulting is being developed as a new practice, with no client engagements to date. The downloadable master drafts are background documents; project repositories distinguish planned, in-progress and validated work.
+
 ## For recruiters and hiring teams
 
 I am interested in Salesforce Administrator, Salesforce Support, CRM Administrator and junior Salesforce consulting opportunities. My background combines a Bachelor of Information Technology, Salesforce certifications and extensive customer-facing and operational experience, including Coles online fulfilment operations.
@@ -22,9 +28,11 @@ My résumé lists certifications in Salesforce Administrator, Advanced Administr
 
 ## For prospective clients
 
-Through Hossain Consulting, I am developing CRM and automation solutions for small-business workflows, including lead capture, follow-up and process documentation. Contact me to discuss your needs, project scope and fit.
+Through Hossain Consulting, I am developing CRM and automation demos for trade and home-service businesses, including enquiry handling, lead capture, follow-up and process documentation. My focus is practical setup, integration and testing. Contact me to discuss your needs, project scope and fit; the portfolio demonstrates simulated scenarios rather than client results.
 
 ## Explore my work
+
+Start with **SunRise Solar** for Salesforce administration and **Home Services AI** for my developing AI and automation work. Read each project's evidence and current status alongside its feature descriptions.
 
 - [Portfolio website](https://portfolio.hossainconsulting.com)
 - [Portfolio overview](https://github.com/hossainconsulting/portfolio)
