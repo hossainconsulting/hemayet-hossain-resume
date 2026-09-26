@@ -23,4 +23,13 @@ Create a public GitHub repository where recruiters and prospective clients can f
 
 The documents preserve drafts from 10 September 2026. Credentials and employment claims were not independently verified in this publication task. Search-engine indexing and recruiter discovery are not guaranteed. External portfolio and LinkedIn URLs are supplied profile links; live page contents were not audited.
 
-Remote publication verification will be recorded after the initial push.
+## Remote publication verification
+
+- Public repository: https://github.com/hossainconsulting/hemayet-hossain-resume
+- Initial published commit: https://github.com/hossainconsulting/hemayet-hossain-resume/commit/037e4a8bcca3509aaa8310fc8101361e2b778352
+- GitHub API confirmed PUBLIC visibility and main as the default branch.
+- GitHub API returned the initial commit SHA matching the local commit.
+- All four remote document blob hashes matched the local Git tree.
+- An unauthenticated request to the public raw README returned HTTP 200.
+- Added relevant repository topics for résumé, portfolio, Salesforce, CRM, automation, Sydney and cover letter.
+- Initial SSH push failed because public-key authentication was unavailable. HTTPS using the authenticated GitHub CLI credential helper succeeded; no force push was used.
